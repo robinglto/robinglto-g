@@ -1,6 +1,7 @@
 import React from "react";
 import message from '../img/message.png'
-
+import up from '../img/up.png'
+import { Link } from "react-scroll";
 
 const Contact = () => {
     return (
@@ -20,6 +21,11 @@ const Contact = () => {
                         </a>
                     </button>
                 </p>
+
+                <Link to="/" spy={true} smooth={true} offset={-10} duration={500} className="md:hidden block cursor-pointer transition duration-700 ease-in-out flex justify-center animate-bounce ">
+                    <img src={up} alt="up" title="up" />
+                </Link>
+
             </div>
         </section>
     )
