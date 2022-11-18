@@ -9,8 +9,8 @@ const Footer = () => {
             <div className="space-y-4">
                 <p className="subpixel-antialiased	">Build and Design by Saul Perez</p>
                 <div className="flex justify-center space-x-4">
-                    <a href="https://github.com/robinglto"><img className="w-6 h-6" src={github} /></a>
-                    <a href="https://twitter.com/robinglto"><img className="w-6 h-6" src={twitter} /></a>
+                    <a href="https://github.com/robinglto"><img className="w-6 h-6" src={github} alt="github" title="github" /></a>
+                    <a href="https://twitter.com/robinglto"><img className="w-6 h-6" src={twitter} alt="twitter" title="twitter" /></a>
                 </div>
             </div>
         </div>

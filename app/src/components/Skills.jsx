@@ -5,7 +5,7 @@ import ok from '../img/ok.png'
 
 const Skills = () => {
     return (
-        <section className="flex justify-center text-center subpixel-antialiased mt-32 mb-20">
+        <section id="skills" className="flex justify-center text-center subpixel-antialiased mt-32 mb-20">
             <div>
                 <h3 className="text-2xl">Skills</h3>
                 <p className="text-gray-500">My Technical Level</p>
