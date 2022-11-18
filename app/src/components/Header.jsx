@@ -1,8 +1,7 @@
 import React from "react";
 
-
-
 const Header = () => {
+
     return (
         <nav className="flex justify-around mt-8 subpixel-antialiased">
             <div>
@@ -16,6 +15,7 @@ const Header = () => {
                 </ul>
             </div>
         </nav>
+
     )
 }
 

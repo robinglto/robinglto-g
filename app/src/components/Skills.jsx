@@ -1,6 +1,8 @@
 import React from "react";
 import ok from '../img/ok.png'
 
+
+
 const Skills = () => {
     return (
         <section className="flex justify-center text-center subpixel-antialiased mt-32 mb-20">

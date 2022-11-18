@@ -4,7 +4,7 @@ import message from "../img/message.png"
 const Home = () => {
     return (
         <section>
-            <div className="lg:hidden md:hidden block flex justify-center mt-16 mb-8 " >
+            <div className="lg:hidden md:hidden block flex justify-center mt-20 mb-8 " >
                 <img className="rounded-full shadow-black shadow-lg p-4 bg-black w-2/4" src={profile} alt="profile" title="profile" />
             </div>
 
