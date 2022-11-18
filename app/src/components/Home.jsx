@@ -13,8 +13,8 @@ const Home = () => {
             <div className="subpixel-antialiased flex justify-center  md:mt-48 mt-8  mb-44 md:mb-64 mx-6 md:mx-20 lg:mx-0">
 
                 <div className="lg:w-2/4 lg:ml-64">
-                    <h2 className="text-2xl mt-8 md:text-start text-center">Saul Perez</h2>
-                    <p className="md:text-start text-center">   Software Developer</p>
+                    <h2 className="md:text-4xl text-2xl mt-8 md:text-start text-center ">Saul Perez</h2>
+                    <p className="md:text-start text-center ">   Software Developer</p>
                     <p className="text-gray-500 md:text-start text-center">I am a front-end engineer based in the Dominican Republic. I am focused on  building accessible and human-centered products.</p>
 
                     <p className="flex mt-4 md:text-start md:justify-start justify-center text-center ">
