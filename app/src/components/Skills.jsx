@@ -14,49 +14,49 @@ const Skills = () => {
                     <ul className="space-y-5 p-6">
                         <li>
                             <div className="flex space-x-2 ">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>Html</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>Css</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>JavaScript</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>TypeScript</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>Reactjs</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>Nextjs</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>TailwindCss</p>
                             </div>
                         </li>
                         <li>
                             <div className="flex space-x-2">
-                                <img className="w-6 h-6" src={ok} alt="" />
+                                <img className="w-6 h-6" src={ok} alt="ok" title="ok" />
                                 <p>Git</p>
                             </div>
                         </li>

@@ -17,7 +17,7 @@ const Contact = () => {
                     <button className="flex justify-center text-white bg-black rounded-xl py-2 px-8 ">
                         <a href="mailto:pfzsaul@gmail.com" className="flex justify-center space-x-3 shadow-lg shadow-black">
                             <p>Say Hello</p>
-                            <img src={message} className="w-7 h-7"></img>
+                            <img src={message} title="message" alt="message" className="w-7 h-7"></img>
                         </a>
                     </button>
                 </p>
